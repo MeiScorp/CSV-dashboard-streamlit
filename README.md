@@ -4,7 +4,7 @@ An interactive Streamlit dashboard for uploading, exploring, visualizing, and cl
 You can try the app here:  
 [https://your-app-name.streamlit.ap](https://csv-dashboard-app-z2hdh3nv3zmpsjdwqlcqva.streamlit.app/)
 ## 📸 Screenshot
-![App Screenshot](app.jpeg.jepg)
+![App Screenshot](app.jpg)
 
 
 
